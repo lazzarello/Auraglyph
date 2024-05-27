@@ -1,0 +1,16 @@
+name: Build App
+on:
+  push:
+jobs:
+  build:
+    runs-on: macos-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Build
+        run: xcodebuild -project Auraglyph.xcodeproj
+      # - name: Upload Package
+      # uses: actions/upload-artifact@v4
+      # with:
+      #   name: package_builds
+      #   path: ${{ github.workspace }}/scripts/package_builds  

@@ -1993,7 +1993,7 @@
 				09B189E6229101D100B38FFF /* Beta */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Debug;
 		};
 		095D12EB17ACA36C0048A012 /* Build configuration list for PBXNativeTarget "Auraglyph" */ = {
 			isa = XCConfigurationList;
@@ -2003,7 +2003,7 @@
 				09B189E7229101D100B38FFF /* Beta */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Debug;
 		};
 		09B019F0208592730071C8EC /* Build configuration list for PBXLegacyTarget "docs" */ = {
 			isa = XCConfigurationList;
@@ -2013,7 +2013,7 @@
 				09B189E8229101D100B38FFF /* Beta */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Debug;
 		};
 /* End XCConfigurationList section */
 	};
